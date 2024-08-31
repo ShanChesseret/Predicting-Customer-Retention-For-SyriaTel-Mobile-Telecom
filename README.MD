@@ -23,7 +23,7 @@ Sourced from: [Kaggle: Churn in Telecom's dataset](https://www.kaggle.com/datase
 
 This dataset encompasses records of 3,333 clients from a fictional telecommunications company named "SyriaTel." It includes 20 different attributes, capturing details such as customer geographic locations, usage patterns for day, evening, and night calls, the presence of voice mail or international plans, and the length of the account number. Notably, the account number's length serves as an indicator of the duration of a customer's association with SyriaTel, making it a useful measure of the customer's lifetime value.
 Below is an illustration of the distribution of features in the dataset.
-![Distribution of Features](images/distr_feat.png)
+![alt text](image.png)
 
 
 ## <b> Data Preparation </b>
