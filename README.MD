@@ -1,6 +1,6 @@
 
 
-# <center>Predicting Customer Retention at SyriaTel Mobile Telecom</center>
+# <center>Predicting Customer Retention For SyriaTel Mobile Telecom</center>
 
 
 ### Overview
