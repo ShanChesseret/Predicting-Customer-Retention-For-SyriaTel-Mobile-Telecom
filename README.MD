@@ -33,7 +33,6 @@ Other methods that were used in this stage included:
 
 - Normalizing the dataset
 - Data type conversions 
-- Dealing with multicollinearity 
 - Setting the target variables and splitting the train and test data.
 ---
 
@@ -48,9 +47,9 @@ In this stage, statistical and machine learning models are developed using the p
 ## <b> Model Evaluation </b>
 
 In evaluating the model, the Random Forest Model was the best performing model, as it achieves a recall score of 71%. 
-optimal parameters are determined to be {'rf__criterion': 'entropy', 'rf__max_depth': 18, 'rf__min_samples_leaf': 5, 'rf__min_samples_split': 3, 'rf__n_estimators': 400}
 
-These parameters are tuned to enhance the model's performance and achieve better results.
+
+The parameters are tuned to enhance the model's performance and achieve better results.
 
 Additionally, the key features that were shown to influence whether a customer would churn or not can be seen in the bar plot displayed below. We can note that the total expenditure is a key predicting variable.
 
