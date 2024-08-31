@@ -58,17 +58,16 @@ In the next section recommendations will be given based on this.
 
 
 ### Recommendations
-
 1. In terms of Business strategic recommendations for SyriaTel, i would recommend a Customer Retention strategy that addresses key features in relation to call minutes and charges from the distribution of features part.These efforts could include personalized offers or discounts on day charges. By implementing cost-effective strategies that address the key factors driving customer churn, SyriaTel can retain customers and minimize revenue loss.
 
-3.  Syriatel should up  comewith strategies to reduce on Customer Service calls, as this is among the top features that would likely lead to Customer Churn. 
+3.Syriatel should up  comewith strategies to reduce on Customer Service calls, as this is among the top features that would likely lead to Customer Churn. 
 
-4. As <b> total expenditure </b> is an influencing factor for whether or not a customer will churn; 
+4.As <b> total expenditure </b> is an influencing factor for whether or not a customer will churn; 
 It is important that SyriaTel reconsiders some of the costs, perhaps in a way that would be more accomodating to individuals that have a certain budget. 
 
-5. Additionally, focus should be placed on the issues that are raised during the <b> customer service calls </b>, while also ensuring that those who are responding to the customers needs are adequately trained as well as adhering to good customer service norms, in order to ensure quality service is provided. 
+5.Additionally, focus should be placed on the issues that are raised during the <b> customer service calls </b>, while also ensuring that those who are responding to the customers needs are adequately trained as well as adhering to good customer service norms, in order to ensure quality service is provided. 
 
-6. Furthermore, SyriaTel should consider taking a customer-centered approach, for example having certain plans that can be modified to suit the needs of the diverse customer base, example: some customers may be more interested in the international plan compared to having a voice mail plan
+6.Furthermore, SyriaTel should consider taking a customer-centered approach, for example having certain plans that can be modified to suit the needs of the diverse customer base, example: some customers may be more interested in the international plan compared to having a voice mail plan
 
 
 
