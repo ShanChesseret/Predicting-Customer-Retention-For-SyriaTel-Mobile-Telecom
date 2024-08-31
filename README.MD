@@ -47,12 +47,8 @@ In this stage, statistical and machine learning models are developed using the p
 ## <b> Model Evaluation </b>
 
 In evaluating the model, the Random Forest Model was the best performing model, as it achieves a recall score of 71%. 
-
-
 The parameters are tuned to enhance the model's performance and achieve better results.
-
 Additionally, the key features that were shown to influence whether a customer would churn or not can be seen in the bar plot displayed below. We can note that the total expenditure is a key predicting variable.
-
 In the next section recommendations will be given based on this.
 
 
@@ -65,7 +61,7 @@ In the next section recommendations will be given based on this.
 
 1. In terms of Business strategic recommendations for SyriaTel, i would recommend a Customer Retention strategy that addresses key features in relation to call minutes and charges from the distribution of features part.These efforts could include personalized offers or discounts on day charges. By implementing cost-effective strategies that address the key factors driving customer churn, SyriaTel can retain customers and minimize revenue loss.
 
-3.  Syriatel should up  comewith strategies to reduce on Customer Service calls, as this is among the top features that would likely lead to Customer Churn. Example: come up IV
+3.  Syriatel should up  comewith strategies to reduce on Customer Service calls, as this is among the top features that would likely lead to Customer Churn. 
 
 4. As <b> total expenditure </b> is an influencing factor for whether or not a customer will churn; 
 It is important that SyriaTel reconsiders some of the costs, perhaps in a way that would be more accomodating to individuals that have a certain budget. 
